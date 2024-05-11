@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node api/server.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^1.0.0-alpha.23"
   }
 }
