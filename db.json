@@ -1,4 +1,133 @@
 {
+    "home": {
+        "hero": {
+            "description": "A equipe do Next Finance, tem a missão de oferecer soluções bancárias completas que capacitam indivíduos e empresas a alcançar seus objetivos financeiros. Estamos comprometidos em fornecer serviços personalizados e inovadores que atendem às necessidades de nossos clientes."
+        },
+        "our_products": {
+            "description": "Descubra uma gama de produtos bancários abrangentes e personalizáveis, o Next Finance é projetado para atender às suas necessidades financeiras exclusivas e aspirações.",
+            "for_businesses": [
+                {
+                    "id": 1,
+                    "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_account.png",
+                    "title": "Facilidades Bancárias",
+                    "description": "Aproveite o acesso fácil e conveniente aos seus fundos com nossa variedade de opções de conta corrente. Beneficie-se de recursos como serviços bancários on-line e móveis, cartões de débito e acesso gratuito a caixas eletrônicos."
+                },
+                {
+                    "id": 2,
+                    "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_save.png",
+                    "title": "Conta Poupança",
+                    "description": "Aumente suas economias com nossas taxas de juros competitivas e opções flexíveis de contas poupança. Esteja você economizando para uma meta específica ou queira aumentar seu patrimônio ao longo do tempo, temos a conta certa para você."
+                },
+                {
+                    "id": 3,
+                    "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_money.png",
+                    "title": "Empréstimos e hipotecas",
+                    "description": "Realize seus sonhos com nossas opções flexíveis de empréstimos e hipotecas. De empréstimos pessoais a hipotecas residenciais, nossos experientes agentes de crédito estão aqui para orientá-lo durante o processo de inscrição e ajudá-lo a garantir os fundos necessários."
+                }
+            ],
+            "for_people": [
+                {
+                    "id": 1,
+                    "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_company.png",
+                    "title": "Startups e Empreendedores",
+                    "description": "Explore um universo de oportunidades com nossas soluções dedicadas a startups e empreendedores. Oferecemos suporte adaptado às suas necessidades específicas. Aproveite recursos especializados, orientação estratégica e acesso a uma rede de mentores e parceiros."
+                },
+                {
+                    "id": 2,
+                    "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_cipher.png",
+                    "title": "Soluções de Pagamento",
+                    "description": "Simplifique seu dia a dia financeiro e concentre-se no crescimento do seu negócio, confiante de que suas transações estão em boas mãos. Desde processamento rápido e seguro até opções flexíveis de pagamento, com tecnologia de ponta e suporte dedicado."
+                },
+                {
+                    "id": 3,
+                    "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_cart.png",
+                    "title": "Expansão empresarial",
+                    "description": "Busque o crescimento e prosperidade com nossas soluções personalizadas de expansão empresarial. De estratégias de mercado a parcerias estratégicas, vamos ajudar a expandir seus negócios de forma inteligente e eficaz. Aproveite nossa experiência e recursos para conquistar novos mercados."
+                }
+            ]
+        },
+        "why_choose": {
+            "description": "No Next Finance, atendemos às diversas necessidades de pessoas físicas e jurídicas, oferecendo uma ampla gama de soluções financeiras.",
+            "for_people": {
+                "description": "Nossos serviços de hipoteca abrem o caminho para a aquisição de uma casa própria, e nossos empréstimos pessoais flexíveis fornecem suporte vital durante vários marcos da vida. Também priorizamos o planejamento da aposentadoria, garantindo um futuro financeiramente seguro para nossos clientes.",
+                "statistics": [
+                    {
+                        "name": "Planejamento de aposentadoria",
+                        "value": "78%"
+                    },
+                    {
+                        "name": "Gerenciamento de dívidas",
+                        "value": "63%"
+                    },
+                    {
+                        "name": "Redução de encargos financeiros",
+                        "value": "91%"
+                    }
+                ],
+                "cards": [
+                    {
+                        "id": 1,
+                        "name": "Conquiste sua casa própria",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_bank.png"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Economize para o futuro",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_save_money.png"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Gerencie suas finanças pessoais",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_money_bag.png"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Financie sua faculdade dos sonhos",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_book.png"
+                    }
+                ]
+            },
+            "for_businesses": {
+                "description": "Para as empresas, potencializamos o crescimento com soluções de capital de giro que otimizam o fluxo de caixa, e nossas opções de financiamento personalizadas estimulam a expansão dos negócios. Quaisquer que sejam as suas aspirações financeiras, o Next Finance está empenhado em fornecer as ferramentas e o apoio certos para alcançá-las.",
+                "statistics": [
+                    {
+                        "name": "Gestão de Fluxo de Caixa",
+                        "value": "65%"
+                    },
+                    {
+                        "name": "Impulso na expansão dos negócios",
+                        "value": "70%"
+                    },
+                    {
+                        "name": "Agilize o processamento da folha de pagamento",
+                        "value": "45%"
+                    }
+                ],
+                "cards": [
+                    {
+                        "id": 1,
+                        "name": "Solicite uma análise de dados",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_company.png"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Apoio para expansão empresarial",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_save_money.png"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Encontre soluções de pagamentos",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_cipher.png"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Melhore seu fluxo de caixa",
+                        "icon": "https://next-finance-fake-ha0cgvijh-rbxrobsons-projects.vercel.app/icon_money.png"
+                    }
+                ]
+            }
+        }
+    },
     "about": [
         {
             "nome": "Hambúrguer de frango artezanal",
@@ -6,15 +135,6 @@
             "preco": 10.5,
             "categoria_id": 1,
             "id": 1
-        }
-    ],
-    "home": [
-        {
-            "id": 2,
-            "nome": "X-Búrguer",
-            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-            "preco": 10.5,
-            "categoria_id": 1
         }
     ]
 }
