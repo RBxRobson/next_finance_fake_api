@@ -127,14 +127,5 @@
                 ]
             }
         }
-    },
-    "about": [
-        {
-            "nome": "Hambúrguer de frango artezanal",
-            "descricao": "Pão, bife de hambúrguer 90g de frango, salada e batata.",
-            "preco": 10.5,
-            "categoria_id": 1,
-            "id": 1
-        }
-    ]
+    }
 }
