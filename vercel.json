@@ -24,7 +24,7 @@
         {
             "source": "/home",
             "headers": [
-                { "key": "Access-Control-Allow-Origin", "value": "*" }
+                { "key": "Access-Control-Allow-Origin", "value": "https://project-next-finance.vercel.app" }
             ]
         }
     ]
