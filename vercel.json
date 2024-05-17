@@ -10,5 +10,14 @@
         "source": "/(.*)",
         "destination": "api/server.js"
         }
-    ]   
-    }
+    ],
+    "routes": [
+        {
+            "src": "/api/home",
+            "methods": ["GET"],
+            "headers": {
+            "Access-Control-Allow-Origin": "*"
+            }
+        }
+    ] 
+}
