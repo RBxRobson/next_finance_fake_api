@@ -166,6 +166,63 @@
                     "description": "Você pode entrar em contato com nossa equipe de suporte ao cliente através de vários canais. Visite a seção 'Contato' no nosso site para encontrar opções como chat ao vivo, e-mail e telefone. Nosso suporte está disponível 24/7 para ajudá-lo com qualquer dúvida ou problema que possa ter. Também oferecemos uma seção de perguntas frequentes (FAQ) no site para respostas rápidas a questões comuns."
                 }
             ]
+        },
+        "our_testimonials": {
+            "description": "Descubra como o Next Finance transformou vidas com soluções digitais inovadoras e atendimento personalizado ao cliente. Veja por que nossos clientes confiam em nós para uma jornada financeira segura e próspera.",
+            "for_people": [
+                {
+                    "id":28,
+                    "name": "Sara T.",
+                    "testimony": "O Next Finance é meu parceiro financeiro de confiança há anos. Seu serviço personalizado e soluções bancárias digitais inovadoras facilitaram muito o gerenciamento de minhas finanças."
+                },
+                {
+                    "id": 29,
+                    "name": "Jhon D.",
+                    "testimony": "Recentemente, comecei meu próprio negócio e a assistência do Next Finance foi fundamental para me ajudar a abrir minhas contas comerciais e garantir o financiamento de que precisava. Sua orientação especializada e soluções personalizadas foram inestimáveis."
+                },
+                {
+                    "id": 30,
+                    "name": "Emily G.",
+                    "testimony": "Adoro a conveniência do aplicativo mobile do Next Finance. Me permite manter o controle de minhas finanças e fazer transações em qualquer lugar. O aplicativo é fácil de usar e seguro, o que me dá tranquilidade."
+                },
+                {
+                    "id": 31,
+                    "name": "Carlos M.",
+                    "testimony": "Com o Next Finance, consegui finalmente poupar o suficiente para comprar minha casa própria. A equipe sempre esteve disponível para tirar minhas dúvidas e me oferecer a melhor solução financeira."
+                },
+                {
+                    "id": 32,
+                    "name": "Amanda R.",
+                    "testimony": "Os empréstimos pessoais do Next Finance me ajudaram a superar um período financeiro difícil. As condições eram justas e o processo foi rápido e eficiente. Recomendo fortemente!"
+                }                
+            ],
+            "for_businesses": [
+                {
+                    "id": 33,
+                    "name": "Tech Innovators",
+                    "testimony": "O Next Finance foi um parceiro crucial no lançamento da nossa startup. Suas soluções bancárias personalizadas e suporte contínuo foram essenciais para nosso crescimento inicial."
+                },
+                {
+                    "id": 34,
+                    "name": "Green Enterprises",
+                    "testimony": "Graças ao Next Finance, conseguimos expandir nossas operações internacionais. Sua expertise em soluções de pagamento e financiamento nos permitiu conquistar novos mercados com confiança."
+                },
+                {
+                    "id": 35,
+                    "name": "Urban Builders Ltda.",
+                    "testimony": "O suporte financeiro do Next Finance foi fundamental para o sucesso de nossos projetos de construção. Suas opções de empréstimo flexíveis e orientação financeira nos ajudaram a completar nossos projetos no prazo e dentro do orçamento."
+                },
+                {
+                    "id": 36,
+                    "name": "Healthy Foods Co.",
+                    "testimony": "A Next Finance nos proporcionou um gerenciamento eficiente de fluxo de caixa, permitindo que nos concentrássemos na expansão de nossos produtos orgânicos. O atendimento ao cliente é excelente e sempre pronto para ajudar."
+                },
+                {
+                    "id": 37,
+                    "name": "EducaTech",
+                    "testimony": "Com as soluções de pagamento rápidas e seguras do Next Finance, conseguimos oferecer uma experiência de inscrição simplificada para nossos cursos online. A integração foi fácil e o suporte técnico impecável."
+                }                
+            ]
         }
     }
 }
