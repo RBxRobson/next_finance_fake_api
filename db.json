@@ -134,6 +134,7 @@
             }
         },
         "FAQ": {
+            "description": "Você tem uma dúvida que não foi resolvida? Entre em contato com o suporte pelo email: nextfinance@exemplo.com",
             "cards": [
                 {
                     "id":22,
