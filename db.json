@@ -195,6 +195,31 @@
                     "id": 32,
                     "name": "Amanda R.",
                     "testimony": "Os empréstimos pessoais do Next Finance me ajudaram a superar um período financeiro difícil. As condições eram justas e o processo foi rápido e eficiente. Recomendo fortemente!"
+                },
+                {
+                    "id": 38,
+                    "name": "Mariana S.",
+                    "testimony": "O Next Finance tem sido um parceiro incrível para minhas finanças pessoais. Suas opções de conta poupança me ajudaram a economizar para uma viagem dos sonhos, e sua equipe sempre esteve pronta para responder às minhas dúvidas."
+                },
+                {
+                    "id": 39,
+                    "name": "Rafael C.",
+                    "testimony": "Como empreendedor, confio no Next Finance para minhas necessidades financeiras. Suas soluções de pagamento simplificaram minhas transações diárias, permitindo que eu me concentrasse no crescimento do meu negócio."
+                },
+                {
+                    "id": 40,
+                    "name": "Juliana M.",
+                    "testimony": "O aplicativo móvel do Next Finance tornou minha vida muito mais fácil. Agora posso acompanhar meus gastos, fazer transferências e pagar contas de forma conveniente, tudo na ponta dos meus dedos."
+                },
+                {
+                    "id": 41,
+                    "name": "Pedro R.",
+                    "testimony": "Estou muito grato ao Next Finance por me ajudar a realizar meu sonho de comprar um carro novo. Seus empréstimos pessoais flexíveis e taxas competitivas tornaram possível concretizar meus planos."
+                },
+                {
+                    "id": 42,
+                    "name": "Camila L.",
+                    "testimony": "O Next Finance tem sido meu parceiro financeiro confiável há anos. Sua equipe sempre foi receptiva e prestativa, oferecendo as melhores soluções para minhas necessidades financeiras."
                 }                
             ],
             "for_businesses": [
@@ -222,7 +247,32 @@
                     "id": 37,
                     "name": "EducaTech",
                     "testimony": "Com as soluções de pagamento rápidas e seguras do Next Finance, conseguimos oferecer uma experiência de inscrição simplificada para nossos cursos online. A integração foi fácil e o suporte técnico impecável."
-                }                
+                },
+                {
+                    "id": 43,
+                    "name": "InovaTech Solutions",
+                    "testimony": "A InovaTech Solutions tem contado com o Next Finance desde o início. Sua orientação estratégica e soluções de financiamento personalizadas foram fundamentais para nosso crescimento e sucesso contínuos."
+                },
+                {
+                    "id": 44,
+                    "name": "EcoBuilders Ltda.",
+                    "testimony": "O suporte financeiro do Next Finance foi crucial para nossa empresa de construção sustentável. Suas opções de financiamento nos permitiram investir em tecnologias verdes e expandir nossas operações."
+                },
+                {
+                    "id": 45,
+                    "name": "Organic Foods Co.",
+                    "testimony": "A Next Finance nos ajudou a gerenciar nosso fluxo de caixa de forma eficiente, permitindo que investíssemos na expansão de nossa linha de produtos orgânicos. Seu suporte dedicado foi inestimável para nosso crescimento."
+                },
+                {
+                    "id": 46,
+                    "name": "EdTech Solutions",
+                    "testimony": "Com as soluções de pagamento rápidas e seguras do Next Finance, pudemos oferecer uma experiência de inscrição simplificada para nossos cursos online. Seu suporte técnico e integração foram excepcionais."
+                },
+                {
+                    "id": 47,
+                    "name": "Healthy Living Co.",
+                    "testimony": "O Next Finance tem sido um parceiro valioso para nossa empresa de saúde. Suas soluções de capital de giro nos permitiram expandir nossas operações e oferecer produtos de alta qualidade aos nossos clientes."
+                }               
             ]
         }
     }
