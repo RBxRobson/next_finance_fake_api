@@ -275,5 +275,63 @@
                 }               
             ]
         }
+    },
+    "Auth": {
+        "form_login": {
+            "inputs": [
+                {
+                    "id": "emailLogin",
+                    "type": "email",
+                    "name": "emailLogin",
+                    "placeholder": "Digite o email cadastrado"
+                },
+                {
+                    "id": "passwordLogin",
+                    "type": "password",
+                    "name": "passwordLogin",
+                    "placeholder": "Digite a senha cadastrada",
+                    "icon_eye": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye.svg",
+                    "icon_eye_slash": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye-slash.svg"
+                }
+            ],
+            "description": "Bem vindo novamente! Preencha os campos para acessar sua conta.",
+            "title": "Login",
+            "button_confirm": "Login",
+            "button_change_auth": "Criar uma conta"
+        },
+        "form_register": {
+            "inputs": [
+                {
+                    "id": "firstName",
+                    "type": "text",
+                    "name": "firstName",
+                    "placeholder": "Digite seu nome"
+                },
+                {
+                    "id": "lastName",
+                    "type": "text",
+                    "name": "lastName",
+                    "placeholder": "Digite seu sobrenome"
+                },
+                {
+                    "id": "emailRegister",
+                    "type": "email",
+                    "name": "emailRegister",
+                    "placeholder": "Digite seu email"
+                },
+                {
+                    "id": "passwordRegister",
+                    "type": "password",
+                    "name": "passwordRegister",
+                    "placeholder": "Digite sua senha",
+                    "icon_eye": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye.svg",
+                    "icon_eye_slash": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye-slash.svg"
+                }
+            ],
+            "description": "Junte-se à nossa comunidade hoje! Crie uma conta para ter acesso a recursos exclusivos e experiências personalizadas.",
+            "title": "Faça seu cadastro",
+            "button_confirm": "Criar conta",
+            "button_change_auth": "Fazer login"
+        }
     }
 }
