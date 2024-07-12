@@ -276,7 +276,7 @@
             ]
         }
     },
-    "Auth": {
+    "auth": {
         "form_login": {
             "inputs": [
                 {
