@@ -283,13 +283,15 @@
                     "id": "emailLogin",
                     "type": "email",
                     "name": "emailLogin",
-                    "placeholder": "Digite o email cadastrado"
+                    "placeholder": "Digite o email cadastrado",
+                    "autocomplete": "email"
                 },
                 {
                     "id": "passwordLogin",
                     "type": "password",
                     "name": "passwordLogin",
                     "placeholder": "Digite a senha cadastrada",
+                    "autocomplete": "current-password",
                     "icon_eye": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye.svg",
                     "icon_eye_slash": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye-slash.svg"
                 }
@@ -305,25 +307,29 @@
                     "id": "firstName",
                     "type": "text",
                     "name": "firstName",
-                    "placeholder": "Digite seu nome"
+                    "placeholder": "Digite seu nome",
+                    "autocomplete": "given-name"
                 },
                 {
                     "id": "lastName",
                     "type": "text",
                     "name": "lastName",
-                    "placeholder": "Digite seu sobrenome"
+                    "placeholder": "Digite seu sobrenome",
+                    "autocomplete": "family-name"
                 },
                 {
                     "id": "emailRegister",
                     "type": "email",
                     "name": "emailRegister",
-                    "placeholder": "Digite seu email"
+                    "placeholder": "Digite seu email",
+                    "autocomplete": "email"
                 },
                 {
                     "id": "passwordRegister",
                     "type": "password",
                     "name": "passwordRegister",
                     "placeholder": "Digite sua senha",
+                    "autocomplete": "new-password",
                     "icon_eye": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye.svg",
                     "icon_eye_slash": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/eye-slash.svg"
                 }
