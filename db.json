@@ -339,5 +339,152 @@
             "button_confirm": "Criar conta",
             "button_change_auth": "Fazer login"
         }
+    },
+    "careers": {
+        "hero": {
+            "title": "Bem Vindo ao centro de carreiras do Next Finance",
+            "description": "Junte-se à nossa equipe e embarque em uma jornada gratificante no setor bancário. No Next Finance, temos o compromisso de promover uma cultura de excelência e proporcionar oportunidades de crescimento profissional. Com foco na inovação, atendimento ao cliente e integridade, nos esforçamos para causar um impacto positivo na vida de nossos clientes e comunidades. Junte-se a nós hoje e faça parte de nossa missão de moldar o futuro do setor bancário.",
+            "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/hero_careers.png"
+        },
+        "our_values": {
+            "title": "Nossos princípios",
+            "description": "No Next Finance, os nossos princípios constituem a base da nossa organização e orientam as nossas ações. Acreditamos na manutenção dos mais altos padrões de integridade, na prestação de serviços excepcionais e na adoção da inovação. Esses valores definem nossa cultura e moldam a forma como trabalhamos juntos para atingir nossos objetivos.",
+            "cards": [
+                {   
+                    "id": 48,
+                    "title": "Integridade",
+                    "description": "Nós nos comportamos com a máxima honestidade, transparência e comportamento ético. Acreditamos em fazer o que é certo para nossos clientes, colegas e partes interessadas, mesmo quando enfrentamos escolhas difíceis."
+                },
+                {   
+                    "id": 49,
+                    "title": "Foco no cliente",
+                    "description": "Nossos clientes estão no centro de tudo o que fazemos. Nos dedicamos a entender suas necessidades, fornecer soluções personalizadas e oferecer um serviço excepcional que supere as expectativas."
+                },
+                {   
+                    "id": 50,
+                    "title": "Colaboração",
+                    "description": "Promovemos um ambiente de trabalho colaborativo e inclusivo, onde o trabalho em equipe e a diversidade são celebrados. Ao aproveitar os pontos fortes e as perspectivas únicas dos nossos funcionários, impulsionamos a inovação e alcançamos maior sucesso juntos."
+                },
+                {   
+                    "id": 51,
+                    "title": "Inovação",
+                    "description": "Abraçamos a mudança e buscamos constantemente soluções inovadoras para atender às crescentes necessidades de nossos clientes. Encorajamos os nossos funcionários a pensar de forma criativa, a desafiar as convenções e a explorar novas ideias para impulsionar o futuro do setor bancário."
+                }
+            ]
+        },
+        "our_benefits": {
+            "title": "Nossos benefícios",
+            "description": "No Next Finance valorizamos os nossos colaboradores e dedicamo-nos ao seu bem-estar e sucesso. Oferecemos uma ampla gama de benefícios projetados para apoiar seu crescimento pessoal e profissional.",
+            "cards": [
+                {   
+                    "id": 52,
+                    "title": "Remuneração competitiva",
+                    "description": "Oferecemos uma remuneração competitiva com o mercado que reconhece as habilidades e a expertise de nossos colaboradores. O Next Finance acredita em recompensar desempenhos excepcionais e em oferecer oportunidades de crescimento financeiro aos colaboradores.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_cart.png"
+                },
+                {   
+                    "id": 53,
+                    "title": "Saúde e bem estar",
+                    "description": "Priorizamos a saúde e o bem-estar de nossos funcionários, oferecendo planos abrangentes de seguros médicos, odontológicos e oftalmológicos. Também oferecemos programas de bem-estar, inscrições em academias e recursos para apoiar um estilo de vida saudável.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_lamp.png"
+                },
+                {   
+                    "id": 54,
+                    "title": "Planejamento de aposentadoria",
+                    "description": "Somos uma empresa focada em ajudar os funcionários a planejar seu futuro. Oferecemos um plano para a aposentadoria com um generoso apoio para ajudá-los a construir uma base financeira segura a longo prazo.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_bag.png"
+                },
+                {   
+                    "id": 55,
+                    "title": "Equilíbrio profissional",
+                    "description": "Compreendemos a importância de manter um equilíbrio saudável entre a vida pessoal e profissional. Oferecemos acordos de trabalho flexíveis, flexibilidade remunerada, licença parental e outros programas que apoiam os funcionários no gerenciamento de seus compromissos pessoais e profissionais.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_bag.png"
+                }
+            ]
+        },
+        "job_openings": {
+            "title": "Vagas de emprego",
+            "description": "Explore vagas de emprego disponíveis no Next Finance, onde valorizamos o talento, a inovação e a paixão pelo atendimento ao cliente. Junte-se à nossa equipe e faça parte da construção de um futuro melhor no setor bancário.",
+            "vacancies": [
+                {   
+                    "id": 53,
+                    "title": "Analista de Risco",
+                    "description": "Como Analista de Risco no Next Finance, você desempenhará um papel vital na identificação e avaliação de riscos potenciais para nossa organização. Você analisará dados, conduzirá avaliações de risco e desenvolverá estratégias para mitigar riscos. Procuramos indivíduos orientados para os detalhes, com fortes habilidades analíticas e uma compreensão sólida dos princípios de gestão de risco.",
+                    "tags": [
+                        {
+                            "id": 54,
+                            "title": "Local:",
+                            "description": "Brasil"
+                        },
+                        {
+                            "id": 60,
+                            "title": "Departamento:",
+                            "description": "Vendas"
+                        }
+                    ],
+                    "requiriments": [
+                        {
+                            "id": 55,
+                            "requiriment": "Faculdade em Administração, Finanças ou áreas afins"
+                        },
+                        {
+                            "id": 56,
+                            "requiriment": "Mínimo de 3 anos de experiência em vendas ou gestão de relacionamento no setor bancário"
+                        },
+                        {
+                            "id": 57,
+                            "requiriment": "Histórico comprovado de cumprimento e superação de metas de vendas"
+                        },
+                        {
+                            "id": 58,
+                            "requiriment": "Excelentes habilidades interpessoais e de negociação"
+                        },
+                        {
+                            "id": 59,
+                            "requiriment": "Forte conhecimento de produtos e serviços bancários"
+                        }
+                    ]
+                },
+                {   
+                    "id": 61,
+                    "title": "Analista de Risco",
+                    "description": "Como Analista de Risco no Next Finance, você desempenhará um papel vital na identificação e avaliação de riscos potenciais para nossa organização. Você analisará dados, conduzirá avaliações de risco e desenvolverá estratégias para mitigar riscos. Procuramos indivíduos orientados para os detalhes, com fortes habilidades analíticas e uma compreensão sólida dos princípios de gestão de risco.",
+                    "tags": [
+                        {
+                            "id": 62,
+                            "title": "Local:",
+                            "description": "Brasil"
+                        },
+                        {
+                            "id": 63,
+                            "title": "Departamento:",
+                            "description": "Gestão de riscos"
+                        }
+                    ],
+                    "requiriments": [
+                        {
+                            "id": 64,
+                            "requiriment": "Faculdade em Finanças, Economia ou áreas afins"
+                        },
+                        {
+                            "id": 65,
+                            "requiriment": "Mínimo de 2 anos de experiência em gestão de risco ou função similar"
+                        },
+                        {
+                            "id": 66,
+                            "requiriment": "Proficiência em ferramentas e técnicas de análise de risco"
+                        },
+                        {
+                            "id": 67,
+                            "requiriment": "Forte capacidade analítica e de resolução de problemas"
+                        },
+                        {
+                            "id": 68,
+                            "requiriment": "Conhecimento dos requisitos regulatórios e das melhores práticas do setor"
+                        }
+                    ]
+                }
+            ]
+        }
     }
 }
