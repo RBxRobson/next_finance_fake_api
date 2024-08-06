@@ -486,5 +486,107 @@
                 }
             ]
         }
+    },
+    "about": {
+        "hero": {
+            "subTitle": "Bem vindo ao Next Finance",
+            "title": "Onde o setor bancário encontra a excelência",
+            "description": "No Next Finance, acreditamos que serviços bancários devem ser mais do que apenas transações. Devem ser uma experiência que capacite indivíduos e empresas a prosperar e atingir suas metas financeiras. Como uma instituição financeira confiável, estamos comprometidos em fornecer serviços bancários excepcionais que vão além das expectativas. Com foco em inovação, soluções personalizadas e integridade inabalável, nos esforçamos para fornecer a melhor experiência bancária para nossos valiosos clientes. Junte-se a nós nesta jornada emocionante e descubra um novo nível de excelência bancária.",
+            "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/hero_about.png"
+        },
+        "mission": {
+            "title": "Missão & Visão",
+            "description": "Nossa visão é ser uma força líder na indústria, movida por inovação, integridade e inclusão, criando um futuro financeiro mais brilhante para indivíduos e empresas, mantendo um forte compromisso com a satisfação do cliente e o desenvolvimento da comunidade.",
+            "articles": {
+                "mission": {
+                    "title": "Missão",
+                    "description": "No Next Finance, nossa missão é capacitar nossos clientes a alcançar sucesso financeiro. Estamos dedicados a fornecer soluções bancárias inovadoras que atendam às suas necessidades exclusivas. Por meio de serviços personalizados, orientação especializada e tecnologia de ponta, pretendemos construir relacionamentos fortes e duradouros com nossos clientes. Nossa missão é ser seu parceiro de confiança, ajudando-os a navegar em sua jornada financeira e realizar seus sonhos.",
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/vision_baner.png"
+                },
+                "vision": {
+                    "title": "Visão",
+                    "description": "Nossa visão no Next Finance é redefinir o serviço bancário criando uma experiência perfeita e personalizada para nossos clientes. Nós imaginamos um futuro onde o serviço bancário seja acessível, transparente e personalizado para as preferências individuais. Por meio de inovação e colaboração contínuas, nós nos esforçamos para estar na vanguarda do setor, definindo novos padrões para serviços bancários centrados no cliente. Nossa visão é ser a instituição financeira preferida, conhecida por nosso compromisso inabalável com a excelência, confiança e satisfação do cliente.",
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/mission_baner.png"
+                }
+            }
+        },
+    "press_releases": {
+            "title": "Comunicados de imprensa",
+            "description": "Fique atualizado com os últimos acontecimentos e novidades interessantes no Next Finance por meio de nossos comunicados de imprensa.",
+            "notes": [
+                {   
+                    "id": 69,
+                    "title": "Next Finance lança novo programa de recompensas para aumentar a fidelidade e a satisfação do cliente",
+                    "tags": [
+                        {   
+                            "id": 70,
+                            "title": "Location: ",
+                            "description": "Brasil"
+                        },
+                        {
+                            "id": 71,
+                            "title": "Data: ",
+                            "description": "02/05/2024"
+                        }
+                    ],
+                    "description": "O Next Finance tem o prazer de anunciar a introdução do nosso novo Programa de Recompensas, com o objetivo de recompensar nossos clientes fiéis e melhorar sua experiência bancária. O programa oferece benefícios exclusivos, descontos e ofertas personalizadas adaptadas às preferências individuais dos clientes. Com esta iniciativa, o YourBank reafirma seu compromisso em entregar valor excepcional e construir relacionamentos duradouros com nossos valiosos clientes.",
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/notice_1.png"
+                },
+                {   
+                    "id": 72,
+                    "title": "Next Finance expande rede de agências com abertura de novo local em Porto Alegre - RS",
+                    "tags": [
+                        {   
+                            "id": 73,
+                            "title": "Location: ",
+                            "description": "Brasil"
+                        },
+                        {
+                            "id": 74,
+                            "title": "Data: ",
+                            "description": "12/08/2024"
+                        }
+                    ],
+                    "description": "O Next Finance tem o prazer de anunciar a grande inauguração de nossa mais nova agência em Porto Alegre - RS. Esta expansão é uma prova de nosso compromisso contínuo em atender nossos clientes e fornecer a eles acesso conveniente à nossa ampla gama de serviços bancários. A nova agência contará com instalações de última geração, uma equipe de profissionais dedicados e uma abordagem personalizada para serviços bancários, fortalecendo ainda mais nossa presença na comunidade local.",
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/notice_2.png"
+                },
+                {   
+                    "id": 75,
+                    "title": "Next Finance lança novo programa de recompensas para aumentar a fidelidade e a satisfação do cliente",
+                    "tags": [
+                        {   
+                            "id": 76,
+                            "title": "Location: ",
+                            "description": "Brasil"
+                        },
+                        {
+                            "id": 77,
+                            "title": "Data: ",
+                            "description": "02/05/2024"
+                        }
+                    ],
+                    "description": "O Next Finance tem o prazer de anunciar a introdução do nosso novo Programa de Recompensas, com o objetivo de recompensar nossos clientes fiéis e melhorar sua experiência bancária. O programa oferece benefícios exclusivos, descontos e ofertas personalizadas adaptadas às preferências individuais dos clientes. Com esta iniciativa, o YourBank reafirma seu compromisso em entregar valor excepcional e construir relacionamentos duradouros com nossos valiosos clientes.",
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/notice_1.png"
+                },
+                {   
+                    "id": 78,
+                    "title": "Next Finance expande rede de agências com abertura de novo local em Porto Alegre - RS",
+                    "tags": [
+                        {   
+                            "id": 79,
+                            "title": "Location: ",
+                            "description": "Brasil"
+                        },
+                        {
+                            "id": 80,
+                            "title": "Data: ",
+                            "description": "12/08/2024"
+                        }
+                    ],
+                    "description": "O Next Finance tem o prazer de anunciar a grande inauguração de nossa mais nova agência em Porto Alegre - RS. Esta expansão é uma prova de nosso compromisso contínuo em atender nossos clientes e fornecer a eles acesso conveniente à nossa ampla gama de serviços bancários. A nova agência contará com instalações de última geração, uma equipe de profissionais dedicados e uma abordagem personalizada para serviços bancários, fortalecendo ainda mais nossa presença na comunidade local.",
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/notice_2.png"
+                }
+            ]
+        }
     }
 }
