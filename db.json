@@ -501,16 +501,16 @@
                 "mission": {
                     "title": "Missão",
                     "description": "No Next Finance, nossa missão é capacitar nossos clientes a alcançar sucesso financeiro. Estamos dedicados a fornecer soluções bancárias inovadoras que atendam às suas necessidades exclusivas. Por meio de serviços personalizados, orientação especializada e tecnologia de ponta, pretendemos construir relacionamentos fortes e duradouros com nossos clientes. Nossa missão é ser seu parceiro de confiança, ajudando-os a navegar em sua jornada financeira e realizar seus sonhos.",
-                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/vision_baner.png"
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/vision_banner.png"
                 },
                 "vision": {
                     "title": "Visão",
                     "description": "Nossa visão no Next Finance é redefinir o serviço bancário criando uma experiência perfeita e personalizada para nossos clientes. Nós imaginamos um futuro onde o serviço bancário seja acessível, transparente e personalizado para as preferências individuais. Por meio de inovação e colaboração contínuas, nós nos esforçamos para estar na vanguarda do setor, definindo novos padrões para serviços bancários centrados no cliente. Nossa visão é ser a instituição financeira preferida, conhecida por nosso compromisso inabalável com a excelência, confiança e satisfação do cliente.",
-                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/mission_baner.png"
+                    "img": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/mission_banner.png"
                 }
             }
         },
-    "press_releases": {
+        "press_releases": {
             "title": "Comunicados de imprensa",
             "description": "Fique atualizado com os últimos acontecimentos e novidades interessantes no Next Finance por meio de nossos comunicados de imprensa.",
             "notes": [
