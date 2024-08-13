@@ -588,5 +588,42 @@
                 }
             ]
         }
+    },
+    "security": {
+        "hero": {
+            "title": "Sua segurança é nossa maior prioridade",
+            "description": "No Next Finance, entendemos a importância de manter suas informações financeiras seguras. Empregamos medidas de segurança robustas e tecnologias avançadas para proteger seus dados pessoais e financeiros. Tenha certeza de que, quando você faz operações bancárias conosco, sua segurança é nossa maior prioridade.",
+            "banner": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/security_banner.png"
+        },
+        "how_we_protect": {
+            "title": "Como protegemos você",
+            "description": "No Next Finance, priorizamos a segurança e a confidencialidade de suas informações financeiras. Nossa tecnologia de criptografia de última geração e medidas rigorosas de proteção de dados garantem que seus ativos e transações estejam protegidos o tempo todo.",
+            "cards" : [
+                {
+                    "id": 81,
+                    "title": "Plataforma de banco on-line segura",
+                    "description": "Nossa plataforma de banco on-line é construída com múltiplas camadas de segurança para proteger suas informações. Utilizamos protocolos de criptografia padrão da indústria para garantir que seus dados permaneçam confidenciais e protegidos durante a transmissão.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_widgets.png"
+                },
+                {
+                    "id": 82,
+                    "title": "Autenticação multifator",
+                    "description": "Para aumentar a segurança da sua experiência bancária on-line, empregamos autenticação multifator. Essa camada adicional de segurança exige que você forneça várias peças de identificação, como uma senha e um código de verificação único, para acessar sua conta.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_layers.png"
+                },
+                {
+                    "id": 83,
+                    "title": "Monitoramento de Fraude",
+                    "description": "Temos sistemas sofisticados de detecção de fraudes para monitorar suas contas em busca de quaisquer atividades suspeitas. Nossa equipe dedicada trabalha 24 horas por dia para detectar e prevenir transações não autorizadas, proporcionando a você paz de espírito.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_lights.png"
+                },
+                {
+                    "id": 84,
+                    "title": "Banco móvel seguro",
+                    "description": "Nosso aplicativo de mobile banking é projetado com o mesmo nível de segurança que nossa plataforma de online banking. Você pode acessar suas contas, fazer transações e gerenciar suas finanças em qualquer lugar, sabendo que suas informações estão protegidas.",
+                    "icon": "https://next-finance-fake-api-rbxrobsons-projects.vercel.app/icon_acronym.png"
+                }
+            ]
+        }
     }
 }
